@@ -1,0 +1,20 @@
+entry = ${ word_wrapper ~ sense+ }
+
+word_wrapper = _{ "@" ~ word ~ "\n" }
+sense = { pos_wrapper? ~ def_wrapper ~ sentence* }
+pos_wrapper = _{ ("* " | "*") ~ part_of_speech ~ "\n" }
+def_wrapper = _{ ("- " | "-") ~ definition ~ "\n" }
+sentence = ${ ("=" | " =") ~ viet ~ "+" ~ eng ~ ("\n" | "\r")+ }
+
+word = ${ word_char* }
+definition = @{ def_char* }
+viet = @{ sent_char* }
+eng = @{ sent_char* }
+part_of_speech = @{ pos_char* }
+
+def_char = _{ !("\n") ~ ANY }
+word_char = _{ !("\n" | "@") ~ ANY }
+sent_char = _{ !("\n" |"=" | "+" | "\r") ~ ANY }
+pos_char = _{ !("\n" | "*") ~ ANY }
+
+WHITESPACE = _{ " " }
