@@ -16,17 +16,17 @@ impl Iterator for EntryIterator {
                 Ok(0) => return None, // end of line
                 Ok(_) => {
                     let line = buffer.trim().to_string();
-                    if line.contains("@") && lines.len() > 0 {
-                        self.reader.seek(SeekFrom::Current(-((line.len()+2) as i64)));
+                    lines.push(line.to_string());
+                    if line.is_empty() {
                         break;
                     }
-                    lines.push(line.to_string()); // yes, this includes pushing the empty line in order to
                 }
                 Err(_) => return None,
             }
         }
         let raw = lines.join("\n");
         let entry = parse_entry(raw.as_str());
+        println!("success");
         Some(entry)
     }
 }
@@ -43,10 +43,9 @@ impl EntryIterator {
 fn test_parse_entry_by_entry_from_file() {
     use pretty_assertions::{assert_eq, assert_ne};
 
-    let file = File::open("src/viet-eng.txt")
-        .expect("Could not open file");
+    let file = File::open("src/viet-eng.txt").expect("Could not open file");
     let mut entry_iterator = EntryIterator::new(file);
-    
+
     let first_entry: Entry = entry_iterator.next().unwrap();
     let first_expected = Entry {
         word: "a".to_string(),
@@ -68,12 +67,10 @@ fn test_parse_entry_by_entry_from_file() {
             Sense {
                 part_of_speech: "".to_string(),
                 definition: "By the way".to_string(),
-                sentences: vec![
-                    Sentence {
-                        eng: "By the way, there's this one other question".to_string(),
-                        viet: "a, còn một vấn đề này nữa".to_string(),
-                    },
-                ]
+                sentences: vec![Sentence {
+                    eng: "By the way, there's this one other question".to_string(),
+                    viet: "a, còn một vấn đề này nữa".to_string(),
+                }],
             },
             Sense {
                 part_of_speech: "noun".to_string(),
@@ -86,43 +83,40 @@ fn test_parse_entry_by_entry_from_file() {
     let second_entry: Entry = entry_iterator.next().unwrap();
     let second_expected = Entry {
         word: "a dua".to_string(),
-        senses: vec![
-            Sense {
-                part_of_speech: "verb".to_string(),
-                definition: "To ape, to chime in, to join in, to take a leaf out of sb's book".to_string(),
-                sentences: vec![
-                    Sentence {
-                        viet: "a dua theo lối ăn mặc lố lăng".to_string(),
-                        eng: "to ape other's eccentric style of dress".to_string(),
-                    },
-                    Sentence {
-                        viet: "người hay a dua bắt chước".to_string(),
-                        eng: "a copy-cat".to_string(),
-                    },
-                ],
-            },
-        ],
+        senses: vec![Sense {
+            part_of_speech: "verb".to_string(),
+            definition: "To ape, to chime in, to join in, to take a leaf out of sb's book"
+                .to_string(),
+            sentences: vec![
+                Sentence {
+                    viet: "a dua theo lối ăn mặc lố lăng".to_string(),
+                    eng: "to ape other's eccentric style of dress".to_string(),
+                },
+                Sentence {
+                    viet: "người hay a dua bắt chước".to_string(),
+                    eng: "a copy-cat".to_string(),
+                },
+            ],
+        }],
     };
 
     let third_entry: Entry = entry_iterator.next().unwrap();
     let third_expected = Entry {
         word: "a ha".to_string(),
-        senses: vec![
-            Sense {
-                part_of_speech: "excl".to_string(),
-                definition: "Aha, ha; hurrah, hurray".to_string(),
-                sentences: vec![
-                    Sentence {
-                        viet: "a ha! tên trộm bị cảnh sát tóm rồi!".to_string(),
-                        eng: "Ha! the thief is caught by the police!".to_string(),
-                    },
-                    Sentence {
-                        viet: "a ha! cô gái xinh quá!".to_string(),
-                        eng: "hurrah! What a pretty girl!".to_string(),
-                    },
-                ],
-            },
-        ],
+        senses: vec![Sense {
+            part_of_speech: "excl".to_string(),
+            definition: "Aha, ha; hurrah, hurray".to_string(),
+            sentences: vec![
+                Sentence {
+                    viet: "a ha! tên trộm bị cảnh sát tóm rồi!".to_string(),
+                    eng: "Ha! the thief is caught by the police!".to_string(),
+                },
+                Sentence {
+                    viet: "a ha! cô gái xinh quá!".to_string(),
+                    eng: "hurrah! What a pretty girl!".to_string(),
+                },
+            ],
+        }],
     };
 
     assert_eq!(first_entry, first_expected);
