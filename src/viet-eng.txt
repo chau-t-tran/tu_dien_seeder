@@ -3637,7 +3637,6 @@
 =ông ta di cư đến Mỹ, và hoàn toàn trở thành người bản địa+he's emigrated to the USA and gone completely native
 =người da trắng ở đây không hoà nhập về mặt xã hội với người bản địa+the white people here don't mix socially with the natives
 
-
 @bản đồ
 * noun
 - Map
@@ -3820,7 +3819,6 @@
 =dân bản xứ+The native people
 =chính sách thực dân dùng người bản xứ đánh người bản xứ+the colonialists' policy of using the natives to fight the natives
 
-
 @bán
 * verb
 - To sell
@@ -3899,7 +3897,6 @@
 - Radius
 =bán kính hình tròn+The radius of a circle
 =cảnh sát đã lục soát tất cả các khu rừng trong vòng bán kính sáu dặm+the police searched all the woods within a radius of six miles
-
 
 @bán lẻ
 - Sell (by) retail
@@ -4207,7 +4204,6 @@
 =trào lưu dân chủ đang bành trướng khắp năm châu+the movement for democracy is expanding all over the world
 =sự bành trướng thuộc địa+colonial expansion
 =chủ nghĩa bành trướng được nhiều chính khách Anh bênh vực ở cuối thế kỷ 19+expansionism was advocated by many British politicians in the late 19th century
-
 =ngăn chặn sự bành trướng của nạn quan liêu+to check the expansion of the red tape
 
 @bành voi
@@ -4401,7 +4397,6 @@
 - Cake picture, fine allusion
 =độc lập chính trị mà không có độc lập kinh tế thì cuối cùng chỉ là bánh vẽ+Political independence without economic independence will finally turn out to be a fine allusion
 
-
 @bánh xe
 - xem bánh
 
@@ -4464,7 +4459,6 @@
 =bao che cho một cán bộ cấp dưới có khuyết điểm+to screen an erring subordinate official
 =anh không thể bao che cho tên buôn lậu này khỏi bị khởi tố đâu+you can't shield this smuggler from prosecution
 
-
 @bao chiếm
 * verb
 - To appropriate
@@ -4474,7 +4468,6 @@
 * adj
 - generous, magnanimous
 =lòng rộng như biển cả, bao dung, cảm hoá tất cả mọi người+an immensely kind and generous heart, capable of elevating everyone
-
 =tính bao dung+generosity, magnanimity
 
 @bao giấy
@@ -4504,7 +4497,6 @@
 =bao hàm nhiều ý nghĩa+to imply much significance
 =tự do không nhất thiết bao hàm trách nhiệm+freedom does not necessarily imply responsibility
 =sáng tác văn nghệ nào cũng bao hàm một thái độ xã hội nhất định+any work of art implies a certain social attitude
-
 
 @bao la
 * adj
@@ -4539,7 +4531,6 @@
 =tuyết bao phủ mặt đất+snow covered the ground
 =sau hai tháng điều tra, vụ án mạng ấy vẫn nằm (vẫn bị bao phủ) trong vòng bí ẩn+after two months of investigation, that murder continues being enveloped in mystery
 
-
 @bao quanh
 * verb
 - To circle, to encompass
@@ -4550,12 +4541,10 @@
 * verb
 - To embrace
 =lời giải thích này chưa bao quát tất cả các khía cạnh của vấn đề+this explanation does not embrace all the sides of the question
-
 =đề ra nhiệm vụ bao quát và những công việc cụ thể+to define the all-embracing duty and concrete jobs
 -To see the whole of, to grasp the whole
 =bao quát công việc+to grasp the whole of one's job
 =đứng trên đỉnh núi có thể bao quát được cả một vùng rộng lớn+from the top of the mountain, one can see the whole of an extensive area
-
 =có cái nhìn bao quát+to have an overall view of things, to have an overview of things
 
 @bao tải
@@ -4594,7 +4583,6 @@
 * verb
 - to surround, to encircle, to blockade, to besiege, to lay a siege to
 =lực lượng nổi loạn đã bao vây bót cảnh sát từ sáng sớm đến sẫm tối+the rebel forces surrounded the station police from dawn till dusk
-
 =thành phố bị hai trung đoàn địch bao vây+the town is encircled by two enemy regiments
 =bao vây kinh tế địch+to stage an economic blockade of the enemy areas
 =bao vây một ổ hút thuốc phiện+to lay a siege to an opium den
@@ -4988,7 +4976,6 @@
 - Signal
 =bắn ba phát súng báo hiệu+to fire a three-shot signal
 =phải chăng lời tuyên bố này báo hiệu rằng tình hình sẽ khả quan hơn?+is this announcement the signal of better times ahead?
-
 =một sự kiện báo hiệu một sự thay đổi trong công luận+an event signals a change in public opinion
 =hồi kẻng báo hiệu giờ tan tầm+a bell signals the end of a shift
 =đèn báo hiệu+signal light
@@ -5111,7 +5098,6 @@
 * adj
 - Wickedly cruel
 =những hành động bạo ngược dã man của quân đội Quốc xã trong thời Đệ nhị thế chiến+nazist troops' wickedly cruel and savage deeds in the Second World War
-
 
 @bạo phát
 -Sudden wealth
@@ -5447,7 +5433,6 @@
 * verb
 - To bridge, to fill the gap
 =tuổi thiếu niên là tuổi bắc cầu giữa tuổi nhi đồng và tuổi thanh niên+the pioneer's age bridges childhood and youth
-
 =nghỉ bắc cầu+to take the intervening day off as well
 
 @bắc cực
@@ -5684,7 +5669,6 @@
 * verb
 - To rely on the strength of, to base oneself on
 =bằng cứ vào tài liệu, có thể khẳng định được điều đó+relying on the strength of the documents, we can affirm that
-
 
 @bằng địa
 - Levelled to (with) the ground; razed
@@ -6045,7 +6029,6 @@
 =tật bẩm sinh+an innate defect
 =thiên tài là do cố gắng bền bỉ lâu dài, đâu phải một thứ bẩm sinh+genius is the result of long and enduring efforts and not something innate
 
-
 @bẩm tính
 * noun
 - Innate character
@@ -6193,7 +6176,6 @@
 =vẻ mặt bần thần+to look haggard
 =mong mãi không thấy con về, chị ấy bần thần cả buổi chiều+she was worried the whole afternoon, waiting in vain for her child
 
-
 @bần tiện
 * adj
 - Poor, poverty-stricken
@@ -6236,7 +6218,6 @@
 - Flustering, pothering (because of too much work)
 =lo bấn lên vì nhiều việc+to fluster because of much work to do
 =ai cũng tranh hỏi, làm anh cứ bấn lên, không còn biết trả lời ai trước nữa+under a barrage of questions, he was flustered, not knowing whom to answer first
-
 
 @bận
 * noun
@@ -6374,7 +6355,6 @@
 * adj
 - Immutable
 =không có hiện tượng thiên nhiên cũng như xã hội nào là bất biến+there is no immutable natural or social phenomenon
-
 =thuyết bất biến+fixism
 
 @bất bình
@@ -6541,7 +6521,6 @@
 @bất kể
 - Irrespective of, regardless of
 =bất kể già trẻ gái trai, ai cũng có nhiệm vụ bảo vệ tổ quốc+everyone, irrespective of age and sex, has the duty to defend the fatherland
-
 =bất kể ngày đêm+day or night
 -Regardless of everything
 =sợ hết hồn, chạy bất kể+to run for dear life, frightened out of one's wits
@@ -6653,7 +6632,6 @@
 - At most
 =việc này bất quá năm ngày làm xong+this job can be done in five days at most
 =ý kiến của anh ta bất quá chỉ được vài ba người tán thành+his view is approved of by two or three people at most
-
 
 @bất tài
 - Incapable
@@ -6980,7 +6958,6 @@
 - So much, that much
 =chỉ cần bấy nhiêu+that much will do
 =Năm năm mới bấy nhiêu ngày, Mà trong trời đất đổi thay đã nhiều+Only five years, only that much time, But so many changes have occurred to our land
-
 
 @bậy
 * adj
@@ -7486,7 +7463,6 @@
 =sức mạnh bề ngoài của chủ nghĩa quốc xã+the outward strength of nazism
 =Bề ngoài thơn thớt nói cười Mà trong nham hiểm giết người không dao+Outwardly a honey tongue, Inwardly a heart of gall
 
-
 @bề sâu
 - Depth
 
@@ -7537,7 +7513,6 @@
 @bể dâu
 - Beach turned into a mulberry field, vicissitudes, whirligig
 =Trải qua một cuộc bể dâu Những điều trông thấy mà đau đớn lòng+Through the whirligig of time, There are events which wrench one's heart
-
 
 @bể hoạn
 - Mandarin life (with its ups and downs)
@@ -7785,7 +7760,6 @@
 =chiếc phao bềnh lên+the buoy surged up
 =thuyền bị những con sóng lớn nuốt mất tăm, đột nhiên lại bềnh lên cưỡi sóng+the boat was swallowed clean by big waves, then emerged suddenly and rode the surf
 
-
 @bềnh bệch
 - Sickly whitish, sickly pale
 
@@ -8005,7 +7979,6 @@
 * noun
 - Skin
 =gọt bì phật thủ to peel the skin of a Buddha's hand
-
 =tước bì xoan+to peel the skin of a China tree
 -Packing, bag
 =đóng gạo vào bì+to pack rice in bags
@@ -8941,7 +8914,6 @@
 - Manifestation
 =coi thường các chi tiết quan trọng là biểu hiện của bệnh sơ lược đại khái sơ lược+slighting important details is a manifestation of schematism, of perfunctoriness
 
-
 @biểu kiến
 * adj
 - Apparent
@@ -9586,7 +9558,6 @@
 * noun
 - Ox, cow; beef
 =bò sữa đàn bò sữa+a herd of milch cows
-
 =ngu như bò+dull as a cow
 =bún bò+a dish of vermicelli and beef
 =ngói bò+a ridge-tile
@@ -9625,7 +9596,6 @@
 - To put, to place
 =bỏ tiền vào túi+to put money in one's pocket
 =bỏ thuốc độc to put poison (vào thức ăn, thức uống..), to poison
-
 =như muối bỏ biển+like a drop in the ocean
 =lửa đỏ lại bỏ thêm rơm+to pour oil on the fire
 =bỏ tù+to put in jail
@@ -10307,7 +10277,6 @@
 - (khẩu ngữ) như bóp miệng
 =Bóp mồm bóp miệng như bóp miệng (nhưng mạnh hơn)
 
-
 @bóp mũi
 * slang
 - To bully easily
@@ -10548,9 +10517,7 @@
 * verb
 - To supplement
 =nghề phụ gia đình đóng vai trò bổ trợ cho nền kinh tế tập thể+the family bytrades play a supplementary role to the collective economy
-
 =phát triển một số ngành sản xuất khác để bổ trợ cho các ngành chính+to develop other activities to supplement the main ones
-
 
 @bổ túc
 * verb
@@ -10950,7 +10917,6 @@
 =bộc tuệch bộc toạc+very ingenuous
 =tính ngay thẳng bộc tuệch bộc toạc chẳng để ý giận ai lâu+to be straight forward and very ingenuous and never be cross with anyone long
 
-
 @bộc tuệch bộc toạc
 - xem bộc tuệch (láy)
 
@@ -11001,7 +10967,6 @@
 @bồi
 * noun
 - Waiter (khách sạn), man-servant (nhà riêng bọn thực dân), houseboy
-
 =bồi bàn+a waiter
 =bồi phòng+a hotel room boy
 * verb
@@ -11047,10 +11012,8 @@
 =thương nhớ bồi hồi trong dạ+to fret with an obsessive longing
 =bồi hồi nhớ lại những kỷ niệm xưa+to fret with obsessive memories of the past
 =Đói lòng ăn khế xót xa Khế chua, muối mặn, lòng ta bồi hồi+Hungry, one had to eat carambola which gave a prickly sensation, Now the obsessive memory of the sour and salt makes one's mind
-
 =bổi hổi bồi hồi+to fret intensively
 =Nhớ ai bổi hổi bồi hồi Như đứng đống lửa như ngồi đống than+One frets intensively with an obsessive longing for one's sweetheart, It is like sitting on thorns, being on pins and needles
-
 
 @bồi tế
 - (từ cũ, nghĩa cũ) Assistant (priest assisting the celebrant at the altar)
@@ -11848,7 +11811,6 @@
 - To make up for, to compensate
 =bù đắp thiệt hại+to compensate for the damage
 =tình đồng chí bù đắp những thiếu thốn về tình cảm gia đình+comradeship makes up for lack of family affection
-
 -To assist in settling down, to help settle down
 =bù đắp cho con cái+to help one's children settle down
 -To reciprocate
@@ -12234,7 +12196,6 @@
 =buổi đực buổi cái+day on day off, intermittently
 =vì đau ốm luôn cho nên đi học thất thường, buổi đực buổi cái+because of frequent illness, he could not attend class regularly, only day on day off
 
-
 @buổi chiều
 - Afternoon
 -In the afternoon
@@ -12310,7 +12271,6 @@
 =người mẹ buồn vì có đứa con hư+the mother was sad because a child of hers was bad
 =ngồi buồn, chẳng nói chẳng rằng+to sit sad and silent
 =Cảnh nào cảnh chẳng đeo sầu Người buồn cảnh có vui đâu bao giờ+No sight is free of sadness. When one is sad, no sight is cheerful
-
 -Feeling an itch (for, to)
 =buồn miệng hát ngêu ngao+his mouth was itching to sing, so he sang a few disconnected phrases
 -Ticklish
@@ -12773,7 +12733,6 @@
 - Step, pace
 =bước đi nặng nề+heavy steps
 =không lùi bước trước khó khăn+not to step back in front of difficulties, not to shrink from difficulties
-
 =cách nhau mươi bước+separated by about ten steps
 =cuộc vận động đã sang bước hai+the movement has switched to step two
 ="Bước ban đầu là bước gian nan "
@@ -13106,7 +13065,6 @@
 * noun
 - Tomato
 =quả cà chua cây cà chua cảnh
-
 
 @cà chua
 * noun
@@ -13591,7 +13549,6 @@
 -Case
 =tiếng Nga có sáu cách+there are six cases in Russian
 =phá cách to break convention (and create a new genrẹ.)
-
 =bài thơ phá cách+a convention-breaking poem
 * verb
 - To be separated
@@ -13602,7 +13559,6 @@
 =mấy năm trời cách biệt+to be cut off for some long years
 -To be very different from
 =dưới chế độ xã hội chủ nghĩa, nông thôn ngày càng cách biệt với thành thị+under socialism, the countryside gets more and more different from the cities
-
 
 @cách bức
 * verb
@@ -13627,14 +13583,12 @@
 @cách điện hóa
 - Stylize
 =Hình hoa lá trên bức chạm trổ cổ đã được cách điện hóa+The flower and leaf design on the old engraving is stylized
-
 =Những động tác cách điệu hóa trong chèo+The stylized gestures in the traditional operetta
 
 @cách điệu hoá
 * verb
 - To stylize
 =hình hoa lá trên bức chạm trổ cổ cổ đã được cách điệu hoá+the flower and leaf design on the old engraving is stylized
-
 =những động tác cách điệu hoá trong chèo+the stylized gestures in the traditional operetta
 
 @cách ly
@@ -13744,7 +13698,6 @@
 * verb
 - To rule
 =chính quyền thực dân dùng quan lại phong kiến cai trị các tỉnh và các phủ, huyện+the colonialist regime used feudal mandarins to rule over provinces and districts
-
 
 @cai tuần
 - (cũ) Chief of village guards
@@ -14121,7 +14074,6 @@
 - To express one's gratitude
 =chân thành cảm tạ các nước anh em đã hết lòng giúp đỡ chúng ta+we express our sincere gratitude to the brother countries for their whole-hearted help
 
-
 @cảm thán
 - (ngôn) Exclamative, interjectional
 =Câu cảm thán+An exclamative sentence
@@ -14156,7 +14108,6 @@
 - Feeling
 =đó chỉ mới là nhận xét theo cảm tính+that is only a comment dictated by feeling
 =nhận thức cảm tính cần được bổ sung bằng nhận thức lý tính+perception through feeling must be completed by perception through reason
-
 
 @cảm tử
 * verb
@@ -14252,7 +14203,6 @@
 - Courage
 ="Chúng ta có đầy đủ sức mạnh, can đảm và thông minh để xây dựng cuộc sống mới của mình"+we have enough strength, courage and intelligence to build for ourselves a new life
 
-
 @can gián
 * verb
 - To advise against doing something
@@ -14345,7 +14295,6 @@
 * noun
 - Obstacle
 ="Tư tưởng bảo thủ là một cản trở lớn trên bước đường đi tới"+conservatism is a great obstacle in the march forward
-
 
 @cán
 * noun
@@ -14631,7 +14580,6 @@
 * verb
 - To awaken, to open the eyes of
 =lời kêu gọi đó như tiếng chuông cảnh tỉnh những kẻ lầm đường+that appeal has awakened those who had gone astray
-
 
 @cảnh trí
 * noun
@@ -15294,7 +15242,6 @@
 - To rule as a feud
 =trước đời Đinh, mười hai sứ quân cát cứ mỗi người một địa phương+before the Dinh dynasty, twelve warlords ruled each a region as his feud
 
-
 @cát đằng
 - (cũ) Concubine (whose condition is comparable to such creeper as kudzu)
 
@@ -15433,7 +15380,6 @@
 - Bitter
 =thất bại cay đắng+a bitter defeat
 =Trên đời nghìn vạn điều cay đắng Cay đắng chi bằng mất tự do+In life, the bitters are legion but none is bitterer than the loss of freedom
-
 =trăm cay nghìn đắng+plagued by all kinds of bitterness
 =cuộc đời trăm cay nghìn đắng của người phụ nữ ngày xưa+the life full of all kinds of bitterness of women in the old times
 
@@ -15537,7 +15483,6 @@
 @căm ghét
 - To feel resentment and hatred against, to resent and abhor
 =đó là một trong những cuộc chiến tranh bị căm ghét và nguyền rủa nhiều nhất+that was one of the most resented, abhorred and cursed wars
-
 
 @căm giận
 - To feel a deep resentment against, to deeply resent
@@ -15721,7 +15666,6 @@
 =đất xấu lại không có phân bón, cây trở nên cằn cỗi+because of the impoverished soil and lack of manure, the tree was stunted
 =tư tưởng cằn cỗi+stunted thinking
 =văn hoá không bắt rễ thẳng ở đại chúng, kết quả là văn hoá cằn cỗi héo hon+a culture without deep roots in the broad masses is a stunted, withered culture
-
 
 @cằn nhằn
 * verb
@@ -16010,7 +15954,6 @@
 * verb
 - To truncate
 =không thể tùy tiện cắt xén một số tình tiết của vở kịch+the play should not be casually truncated of some of its incidents
-
 =cắt xén một đoạn trích dẫn+to truncate a quoted passage
 
 @cấc
@@ -17336,7 +17279,6 @@
 - To painstakingly entreat (influential people) for a favour.
 =ngày trước, thường phải cậy cục, đút lót mới xin được việc làm+in former times, one used to have to painstakingly entreat or bribe influential people for a job
 
-
 @cậy thế
 * verb
 -To rely on one's position or standing
@@ -17347,7 +17289,6 @@
 =Đức Cha+Right Reverend Father
 -Damn, curse
 =Cha đời cái áo rách này Mất chúng mất bạn vì mày áo ơi+Damn this ragged jacket which has cost me friends and acquaintances
-
 =cha nào con nấy+like father like son
 =cha căng chú kiết+of unknown origin; not to be trusted
 =cha chung không ai khóc+everybody's business is nobody's business
@@ -18574,7 +18515,6 @@
 - To patch up, to piece out, to piece up, to connect
 =chắp mảnh gương vỡ+to patch up a broken mirror
 =mỗi người chỉ nhớ một câu, nhưng chắp lại cũng thành bài thơ trọn vẹn+each person only remembered one line but a whole poem could be pieced out
-
 =chắp mối để bắt liên lạc+to connect the contact and set up the liaison
 -To join, to clasp (the two hands)
 =chắp tay lạy+to clasp hands and make a kowtow
@@ -18607,7 +18547,6 @@
 @chắt bóp
 - To stint oneself in
 =phải chắt bóp trong bao nhiêu năm mới có được món tiền ấy+that sum of money was the result of many years stinting himself in everything
-
 =chắt bóp từng đồng+to stint oneself in money and save every penny
 
 @chắt chiu
@@ -18893,7 +18832,6 @@
 =miếng mạng chân rết+a piece of centipede-foot-shaped darning
 =đào những mương máng chân rết để đưa nước vào ruộng+to dig a centipede-foot-shaped network of canals to irrigate rice-fields
 =ngành thương nghiệp tổ chức thêm nhiều chân rết ở các địa phương+the trade branch sets up many more local centipede-foot-shaped networks
-
 
 @chân tài
 * noun
@@ -19239,7 +19177,6 @@
 =sơn dầu là một chất liệu của hội hoạ+oil is a painting material
 =thực tế đấu tranh và sản xuất là chất liệu phong phú của sáng tác nghệ thuật+the facts of the fighting and production are seminal materials for artistic creation
 
-
 @chất lỏng
 - Liquid
 
@@ -19302,7 +19239,6 @@
 =ở chen chúc trong một gian phòng chật hẹp+to live cramped in a narrow room
 =khuôn khổ chật hẹp của một bài báo+the narrow space of a newspaper article
 =nếp suy nghĩ chật hẹp, cái nhìn chật hẹp của người sản xuất nhỏ+the narrow way of thinking, the narrow outlook of a small producer
-
 -Petty
 =tình cảm chật hẹp+petty feelings
 
@@ -19310,11 +19246,9 @@
 * adj
 - (nói về làm việc gì) Toilsome, tough, strenuous, requiring a lot of exertion
 =phải chật vật lắm mới vượt qua được cái dốc trơn như mỡ+climbing that slippery slope required much exertion
-
 =anh ta chật vật lắm mới làm xong được việc đó+he had to make a lot of exertion to get that job done
 - nói về đời sống) Hard
 =đời sống chưa được phong lưu, nhưng không còn chật vật như trước+life is not yet comfortable, but not so hard as before
-
 
 @châu
 * noun
@@ -19363,7 +19297,6 @@
 - To attend upon (a mandarin..)
 -To cool one's heels
 =việc chẳng có gì mà bắt người ta phải chầu chực suốt buổi chiều+it was no matter of importance, still they had to cool their heels for a whole afternoon
-
 
 @chầu rìa
 - To look on (a game of cards..), to kibitz
@@ -19441,7 +19374,6 @@
 =che đậy hàng hoá cho khỏi bị mưa ướt+to cover goods against the rain
 -To cover up, to smother up
 =không một luận điệu xảo trá nào che đậy được bản chất bất lương của bọn maphia+no cunning propaganda can cover up the mafiosi's dishonest nature
-
 
 @che giấu
 - To hide, to conceal, to shelter
@@ -19714,7 +19646,6 @@
 * verb
 - To make little of, to run down
 =Nói chín thì làm nên mười Nói mười làm chín, kẻ cười người chê+For nine things promised, one should do ten; If for ten things promised, one does only nine, one will be made little of and sneered at
-
 =lợn chê cám+the pig cared little for bran soup (because of some illness)
 =chê ỏng chê eo+to be overparticular about details of a thing to choose; to pick and choose
 !vụng múa chê đất lệch
@@ -19725,7 +19656,6 @@
 - To speak scornfully of, to disparage
 =dư luận chê bai anh ta đối xử với vợ không tốt+public opinion speaks scornfully of him because of his bad treatment of his wife
 =Canh cải mà nấu với gừng Chẳng ăn thì chớ xin đừng chê bai+If you don't like cabbage soup seasoned with ginger, Don't eat it please and don't disparage it
-
 
 @chê chán
 - như chán chê
@@ -19782,7 +19712,6 @@
 * verb
 - To ridicule
 =ca dao trào phúng b chế giễu những thói hư tật xấu trong xã hội cũ+satirical folk-songs ridicule bad habits and backward practices of the old society
-
 
 @chế ngự
 * verb
@@ -19856,7 +19785,6 @@
 =lực lượng hai bên rất chênh lệch+both sides' strength is very unequal
 =khắc phục tình trạng trồng trọt và chăn nuôi phát triển còn chênh lệch nhau+to do away with the still uneven development of crop growing and animal husbandry
 
-
 @chênh vênh
 * adj
 - Tottery, tottering
@@ -19893,7 +19821,6 @@
 =bừa cho chết cỏ+to rake weeds and make them die, to rake weeds dead
 =quang cảnh một thành phố chết trong những ngày tổng bãi công+the sight of a dead town during a general strike
 
-
 @chết cha
 - như bỏ mẹ
 =đánh chết cha nó đi!+beat him to death!
@@ -19926,7 +19853,6 @@
 - To be over head and ears in love, to be captivated
 =chết mê chết mệt như chết mệt
 
-
 @chết tươi
 * verb
 - (nói về người, động vật đang sống bình thường) To die an instant death
@@ -19948,7 +19874,6 @@
 - To spend (money from a fund, budget), to pay out, to disburse
 =tiền chi cho sản xuất+spending on production
 =tăng thu giảm chi+to increase the income, to cut down the spending (the outlay)
-
 
 @chi bằng
 - Would better
@@ -20012,7 +19937,6 @@
 - To control, to rule, to govern
 =tư tưởng chi phối hành động+ideology rules over behaviour
 =thế giới quan của nhà văn chi phối nội dung tư tưởng của tác phẩm+the writer's world outlook rules over the ideological content of the work
-
 
 @chi tiết
 * noun
@@ -20158,7 +20082,6 @@
 - To point (with the fingers)
 =mấy đứa bé đứng trước gian hàng đồ chơi vừa xem vừa chỉ trỏ+some children were standing in front of the toy department, looking and pointing
 
-
 @chỉ vẽ
 - To direct, to advise, to show in detail
 
@@ -20199,7 +20122,6 @@
 =Đấng chí công+Very Just, God
 =Chí công vô tư+public-spirited and selfless
 =đem lòng chí công vô tư mà đối với người, đối với việc+to show public spirit and selflessness in one's dealing with other people and in one's work
-
 
 @chí hiếu
 -very pious
@@ -20260,7 +20182,6 @@
 - Deadly, to death
 =giáng cho những đòn chí tử+to strike deadly blows
 =mấy con thú tranh mồi, cắn xé nhau chí tử+some beasts were disputing a prey, inflicting deadly wounds on one another
-
 =làm việc chí tử+to work oneself to death
 =nghèo chí tử+deadly poor
 
@@ -20432,14 +20353,12 @@
 - To be experienced in observing (something)
 =những người làm nghề đánh cá biển rất giỏi chiêm nghiệm thời tiết+the sea fishing people are very experienced in observing the weather
 
-
 @chiêm ngưỡng
 * verb
 - To gaze with veneration
 =chiêm ngưỡng một bức tượng+to gaze with veneration at a statue
 -To pay homage to the memory of
 =chiêm ngưỡng những chiến sĩ đã oanh liệt hy sinh vì tổ quốc+to pay homage to the memory of the fighters who have gloriously laid down their lives for the fatherland
-
 
 @chiêm tinh học
 * noun
@@ -20539,7 +20458,6 @@
 @chiến dịch
 * noun
 - Campaign, movement
-
 =phát động một chiến dịch vệ sinh phòng bệnh mùa hè+to launch a summer prophylactic hygiene campaign (movement)
 
 @chiến đấu
@@ -20593,7 +20511,6 @@
 * noun
 - Man, soldier
 -Fighter
-
 =chiến sĩ hoà bình+a peace-fighter
 
 @chiến sự
@@ -20884,7 +20801,6 @@
 =chín từng mây+cloud-touching, cloud-topped, cloud-capped
 =chín bỏ làm mười+to easily let pass (others' mistakes...), to tolerate
 =đoàn kết không phải là bất cứ cái gì cũng chín bỏ làm mười cho qua chuyện+Solidarity does not mean easily letting pass any mistakes of others as past things
-
 
 @chín cây
 - Ripened on the tree
@@ -21353,7 +21269,6 @@
 @choáng lộn
 - Swanky and shining
 =hàng hoá bày trong tủ kính choáng lộn dưới ánh sáng đèn nê ông+the goods displayed in the shop window looked swanky and shining in the neon light
-
 
 @choáng óc
 -Deafening
@@ -21905,7 +21820,6 @@
 =cột chống đỡ mái nhà+a pillar propping up the roof
 -To resist
 =bị tiến công bất ngờ, địch chống đỡ một cách bị động+coming under a surprise attack, the enemy resisted passively
-
 =cơ thể đủ sức chống đỡ với bệnh tật+the body is strong enough to resist disease
 
 @chống trả
@@ -22650,7 +22564,6 @@
 - To approve, to grant
 =những điểm sửa đổi trong kế hoạch đã được cấp trên chuẩn y+the amendments to the plan have been approved by higher level
 
-
 @chúc
 * verb
 - To tilt
@@ -22848,7 +22761,6 @@
 - In the last analysis, on the whole
 =nhiều câu hỏi, nhưng chung quy chỉ có một vấn đề+there were many questions, but on the whole there was only one problem
 =chung quy lại như chung quy
-
 
 @chung thẩm
 - To exercise final jurisdiction
@@ -23377,7 +23289,6 @@
 @chuyển tự
 - To transliterate
 =ghi một tên tiếng Nga bằng chữ quốc ngữ theo lối chuyển tự+to transliterate a Russian proper name into Vietnamese
-
 
 @chuyển vần
 - Vicissitude, whirligig
@@ -24142,7 +24053,6 @@
 @có điều
 - Only, only that
 =sống chết là lẽ thường, có điều phải biết sống thế nào, chết thế nào cho xứng đáng+life and death is the natural way of the flesh, only one must live and die in a worthy manner
-
 =anh ta là việc tích cực, có điều khả năng còn kém+he works very hard, only that his capacity is still not up to the mark
 
 @có hậu
@@ -30745,7 +30655,6 @@
 - Be ruthless enough to beat a child
 = Đang tay đánh một em bé+To be ruthless enough to beat a child
 
-
 @đang tay
 - Be ruthless enough tọ
 =Đang tay đánh một em bé+To be ruthless enough to beat a child
@@ -31534,7 +31443,6 @@
 - Have one's wish fulfilled, be fully satisfied
 =Nhà thơ rất đắc ý vì tác phẩm của mình được quần chúng yêu chuộng+The poet had his wish fulfilled, with his works having become popular with the masses
 
-
 @đặc
 * adj
 - solid
@@ -31593,7 +31501,6 @@
 @đặc san
 - Special issue (of a paper)
 =Đặc san của tạp chí Ngôn ngữ về phương pháp dạy ngoại ngữ+A special issue of the magazine Linguistics on methods of foreign languages teaching
-
 
 @đặc sản
 - Speciality
@@ -32332,11 +32239,9 @@
 - Bid forr contract, put in (make) a tender
 =Công trình ấy được đưa rra cho các hãng xây dựng đấu thầu+Thar work was put forth for construction firm to bid for contract to build it (to make tenders for its building)
 
-
 @đấu thủ
 - Contender, player (in a competition of sport, chess...)
 =Chọn đấu thủ cho đội bóng đá đi dự giải vô địch Thế giới+To select players for a team taking part in the World Cup Footbal matches
-
 
 @đấu tố
 - Denounce publicly (nói khái quát)
@@ -34312,7 +34217,6 @@
 @đoán già
 - Make a positive affirmation o uncertainn grounds
 =Tuy chưa biết gì chắc chắn về việc đó, nhưng cũng cứ đoán già+To make a positive affirmation on something one has not got any factual information
-
 =Đoán già đoán non+To make a sheer conecture
 
 @đoán mò
@@ -34807,7 +34711,6 @@
 @đổ dồn
 - Flock into, concentrate upon
 =Trời nóng quá, người ta đổ dồn vào các cửa hàng giải khát+As the weather was very hot, people flocked into refreshment rooms
-
 =ý nghĩa của nó đổ dồn vào một việc+His thoughts concentrated on one thing
 
 @đổ đồng
@@ -35737,7 +35640,6 @@
 - Be speechless from shortage of argument
 =Đớ ra vì không trả lời lại được những lý lẽ sắc bén của đối phương+To be spechless from the failure to answer one's opponent's trenchant arguments
 
-
 @đớ họng
 - như đớ
 
@@ -35874,7 +35776,6 @@
 @đơn thuần
 - Pure
 =Công nghiệp hóa không phải đơn thuần là vấn đề cơ khí hoá+Industrialization is not purely a matter of mechanization
-
 
 @đơn thuốc
 - Prescription (of a physician)
@@ -36470,7 +36371,6 @@
 =Đứng đường đứng chợ+To lounge at street corners and market-places
 =Độ này nó rất hư, chỉ đứng đường đứng chợ suốt ngày+These days, that boy is very badly-behaved, doing nothing but lounging at street corners and market-places
 
-
 @đứng giá
 - At a stabilized price
 =Hàng đứng giá+The prices of goods are stabilized
@@ -36673,7 +36573,6 @@
 - Stately, having a stately brearing
 =Đường đường chính chính+Openly, overtly
 =Cứ làm việc nơi ấy một cách đường đường chính chính không úp mở+Just do that openly without any secretiveness
-
 
 @đường huyền
 - (toán) Hypotenuse
@@ -37662,7 +37561,6 @@
 - Make an unusual effort
 =ốm mà cũng gắn gượng ngồi dậy làm vì có việc rất quan trọng+Though he was ill, he made an unusual effort to sit up and work on some very importannt business
 
-
 @gắng sức
 * verb
 - to make every effort
@@ -38172,7 +38070,6 @@
 @ghê rợn
 - Shudder with horror
 =Trông thấy cảnh chết chóc trong kháng chiến mà ghê rợn cả người+To shudder with horror at the sight of death caused by the war
-
 
 @ghê tởm
 * adj
@@ -41835,7 +41732,6 @@
 =một hình phạt hà khắc+a severe punishment
 =các chính phủ độc tài thường áp dụng chính sách hà khắc đối với thành phần chính trị đối lập+dictatorial governments often apply draconian policies to political opposition
 
-
 @hà khẩu
 - (từ cũ; nghĩa cũ) River estuary, river muoth
 
@@ -43015,7 +42911,6 @@
 * adj
 - vain; emply
 =hão huyền fantastic mơ mộng hão huyền+fantastic dreams
-
 
 @hão huyền
 - Impracticable, fantastic
@@ -46019,7 +45914,6 @@
 =Có tinh thần học hỏi+To have an inquiring mind
 =Phải kiên trì học hỏi thì mới đạt được những đỉnh cao của khoa học+One must patiently investigate if one is to reach peaks of science
 
-
 @học khóa
 - Period of a curriculum
 =Học khóa năm năm+A five-year curriculum period
@@ -46159,7 +46053,6 @@
 @hỏi gạn
 - Questions closed but gently
 =Hỏi gạn mãi thằng bé nó mới thú nhận đã bỏ học đi chơi 
-
 -Only after many close and gentle questionns did the little boy admitted that he had played truant
 
 @hỏi han
@@ -47415,7 +47308,6 @@
 @hơn nữa
 - Moreover
 =Anh ấy là người biết điều, hơn nữa lại hay giúp đỡ người khác+He is a reasonable man, moreover he often likes to do others a good turn
-
 
 @hơn thế nữa
 - Further, furthermore
@@ -49704,7 +49596,6 @@
 - Different (in some respects)
 =Hai quan điểm tuy giống nhau nhưng còn khác biệt nhau về nhiều chi tiết+The two view-points are similar but still different in many details
 
-
 @khác chi
 - như khác gì
 
@@ -51025,7 +50916,6 @@
 - Angle
 =Xem xét mọi khía cạnh của một vấn đề trước khi đề ra một giải pháp+To consider every angle of problem before putting forward a solution
 
-
 @khích
 - Provoke
 =Họ đang khích nhau+They are provoking each other
@@ -51769,7 +51659,6 @@
 @khóc thầm
 - Cry one's heart out.
 ="Người ngoài cười nụ người trong khóc thầm " (Nguyễn Du)
-
 -The outsider smiled a disc reet satisfied smile while the insider criesd her heart out
 
 @khoe
@@ -51901,7 +51790,6 @@
 @khổ chủ
 - (cũ) Victim (of a calamitỵ..)
 =Sau cơn hoả hoạn khổ chủ đã được đồng bào hết sức giúp đỡ+After the blaze, the victims were given wholehearted help.
-
 -(thông tục) Host, person who throws a party, person who stands treat
 =Hôm nay khổ chủ thết đến mười hai người+Today out host stands treat for twelve people 
 
@@ -53070,7 +52958,6 @@
 @kiểm tra
 - Inspect
 =Đi kiểm tra việc thực hiện chính sách mới về nông nghiệp
-
 -To go on an inspection tour about the implementation of the new agricultural policy
 -Control, check
 =Làm ơn kiểm tra lại những con số này+Please check these figures
@@ -60049,7 +59936,6 @@ _trash
 =Mồm loa mép giải+Loud-mouthed, loud-spoken
 =Khuyết điểm rành rành nhưng cứ mồm loa mép giải chối phăng.+To loud-mouthedly deny an obvious mistake
 
-
 @mồm miệng
 - Mouth, tongue
 =Giữ mồm giữ miệng+To think twice about speaking
@@ -61698,7 +61584,6 @@ _trash
 @nảy nòi
 - Begin to sprout (a defect not hereditary)
 =Cả nhà ai cũng hiền lành, chỉ có nó mới nảy nòi hung dữ như thế+Of all the members of the family who are quite gentle only he has begun to sprout such vionlence
-
 
 @nảy nở
 - Bud, sprout
@@ -64001,7 +63886,6 @@ _trash
 - Ponder over, consider carefully, worry about
 =Thôi đừng nghĩ ngợi làm gì, việc đã xảy ra rồi không thể cứu vãn được+Don't worry about that thing any longer, what is done cannot be undone
 
-
 @nghĩ ra
 - Think out
 
@@ -64211,10 +64095,8 @@ _trash
 @nghiễm nhiên
 - Unruffed, Imperturbable
 =Đang nói chuyện có tiếng nổ to nhưng vẫn nghiễm nhiên nói tiếp+To carry on imperturbably one's talk despite a big explosion
-
 -Without any trouble, without any fuss, without much ado
 =Đến chơi nhà bạn đang có giỗ, cứ nghiễm nhiên ngồi vào ăn cỗ+To partake of a feast without any fuss after dropping in on a friend who is commemorating a death anniversary
-
 
 @nghiệm
 - Consider
@@ -64388,7 +64270,6 @@ _trash
 @ngó ngoáy
 - Scrape round (in something hollow)
 =Đừng ngó ngoáy vào cái lỗ thủng ở tường làm cho nó to ra
-
 -Don't scrape round in that hole in the wall and enlarge it
 
 @ngọ
@@ -64992,7 +64873,6 @@ _trash
 =Chó ngộ+Rabid dog
 -In case
 =Bao giờ đi đường cũng có túi thuốc cấp cứu, ngộ có bị tai nạn+To carry always a first-aid bag with one on trips in case of an accident
-
 
 @ngộ biến
 - Meet with misfortune
@@ -73358,7 +73238,6 @@ _trash
 @phai mờ
 - Fade
 =Mọi kỷ niệm của thời thơ ấu đã phai mờ trong trí óc anh ta
-
 -All memory of his childhood faded from his mind
 
 @phai nhạt
@@ -74454,7 +74333,6 @@ _trash
 @phần nào
 - to some extent, to a certain degree
 =Khí hậu nóng bức có ảnh hưởng phần nào đến năng suất công tác+The hot weather affects to some extent the efficiency of labour
-
 
 @phần nhiều
 - the greatest part, most
@@ -82351,7 +82229,6 @@ _trash
 - Boatman
 =Pagoda's warden Nhiều sãi không ai đóng cửa chùa+Everybody's business is nobody's business
 
-
 @sái
 * adj
 - ominous, inauspicious
@@ -88444,7 +88321,6 @@ _trash
 @thác
 * noun
 - waterfall, falls
-
 * verb
 - to die to pretext
 
