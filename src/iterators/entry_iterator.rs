@@ -26,7 +26,6 @@ impl Iterator for EntryIterator {
         }
         let raw = lines.join("\n");
         let entry = parse_entry(raw.as_str());
-        println!("success");
         Some(entry)
     }
 }
@@ -125,7 +124,6 @@ fn test_parse_entry_by_entry_from_file() {
 }
 
 #[test]
-#[ignore]
 fn test_parse_until_end() {
     use pretty_assertions::{assert_eq, assert_ne};
 
