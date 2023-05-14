@@ -1,15 +1,15 @@
 #![allow(unused)]
-use clap::{Command, Args, Arg};
-use std::path::PathBuf;
+use clap::{Arg, Args, Command};
 use std::fs::File;
 use std::io::{self, prelude::*, BufReader};
+use std::path::PathBuf;
 
-use std::result::Result;
 use std::error::Error;
+use std::result::Result;
 
 extern crate pest;
 #[macro_use]
-extern crate pest_derive; 
+extern crate pest_derive;
 
 mod dictionary;
 mod iterators {
@@ -33,10 +33,16 @@ fn parse(filepath: &str) -> Result<(), Box<dyn Error>> {
         let line = format!("\r Word #{}: {}", i, entry.word.clone());
         print!("{}", " ".repeat(line.len()));
         print!("{}", line);
-        insert_entry(entry, &mut pool);
+        match insert_entry(entry, &mut pool) {
+            Ok(_) => (),
+            Err(val) => {
+                println!("Error! {}", val);
+                break;
+            }
+        };
         stdout.flush()?;
     }
-    print!("\nFinished!");
+    println!("\nFinished!");
 
     Ok(())
 }
@@ -45,14 +51,14 @@ fn main() -> Result<(), Box<dyn Error>> {
     let matches = Command::new("stardict")
         .arg(
             Arg::new("command")
-            .required(true)
-            .value_parser(["parse", "hydrate"]),
-            )
+                .required(true)
+                .value_parser(["parse", "hydrate"]),
+        )
         .arg(
             Arg::new("filepath")
-            .required_if_eq("command", "parse")
-            .long("filepath"),
-            )
+                .required_if_eq("command", "parse")
+                .long("filepath"),
+        )
         .get_matches();
 
     let value = match matches.get_one::<String>("command").unwrap().as_str() {

@@ -1,11 +1,10 @@
 use crate::dictionary::*;
 use crate::iterators::entry_iterator::*;
-use std::result::Result;
-use std::error::Error;
 use config::{Config, File, FileFormat};
-use mysql::*;
 use mysql::prelude::*;
-
+use mysql::*;
+use std::error::Error;
+use std::result::Result;
 
 pub fn init_db() -> Result<PooledConn, Box<dyn Error>> {
     let settings = Config::builder()
@@ -19,14 +18,29 @@ pub fn init_db() -> Result<PooledConn, Box<dyn Error>> {
     Ok(conn)
 }
 
+pub fn insert_text(text: String, conn: &mut PooledConn) -> Result<(), Box<dyn Error>> {
+    conn.exec_drop("INSERT IGNORE INTO text_audio (text) VALUES (?)", (text,))?;
+    Ok(())
+}
+
 pub fn insert_entry(entry: Entry, conn: &mut PooledConn) -> Result<(), Box<dyn Error>> {
     for sense in entry.senses {
-        conn.exec_drop("INSERT INTO entries (word, pos, def) VALUES (?, ?, ?)",
-        (entry.word.clone(), sense.part_of_speech, sense.definition,))?;
+        conn.exec_drop(
+            "INSERT INTO entries (word, pos, def) VALUES (?, ?, ?)",
+            (
+                entry.word.clone(),
+                sense.part_of_speech.clone(),
+                sense.definition.clone(),
+            ),
+        )?;
         let entry_id = conn.last_insert_id();
+        insert_text(entry.word.clone(), conn);
         for sentence in sense.sentences {
-            conn.exec_drop("INSERT INTO sentences (eng, viet, entry_id) VALUES (?, ?, ?)",
-            (sentence.eng, sentence.viet, entry_id,))?;
+            conn.exec_drop(
+                "INSERT INTO sentences (eng, viet, entry_id) VALUES (?, ?, ?)",
+                (sentence.eng, sentence.viet.clone(), entry_id),
+            )?;
+            insert_text(sentence.viet, conn);
         }
     }
     Ok(())
@@ -43,10 +57,12 @@ fn test_insert_db() -> Result<(), Box<dyn Error>> {
     match entry_iterator.next() {
         Some(entry) => {
             insert_entry(entry, &mut conn).expect("Error inserting entry");
-            conn.exec_drop("DELETE FROM sentences", ()).expect("Error resetting table, delete manually");
-            conn.exec_drop("DELETE FROM entries", ()).expect("Error resetting table, delete manually");
+            conn.exec_drop("DELETE FROM sentences", ())
+                .expect("Error resetting table, delete manually");
+            conn.exec_drop("DELETE FROM entries", ())
+                .expect("Error resetting table, delete manually");
         }
-        _ => panic!("No value found from iterator")
+        _ => panic!("No value found from iterator"),
     }
     Ok(())
 }
