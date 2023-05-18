@@ -12,14 +12,12 @@ extern crate pest;
 extern crate pest_derive;
 
 mod dictionary;
-mod iterators {
-    pub mod entry_iterator;
-    pub mod lexico_iterator;
-}
+mod entry_iterator;
+mod lexico_iterator;
 mod sql;
 
 use crate::dictionary::*;
-use crate::iterators::entry_iterator::*;
+use crate::entry_iterator::*;
 use crate::sql::*;
 
 fn parse(filepath: &str) -> Result<(), Box<dyn Error>> {

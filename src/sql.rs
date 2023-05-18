@@ -1,5 +1,5 @@
 use crate::dictionary::*;
-use crate::iterators::entry_iterator::*;
+use crate::entry_iterator::*;
 use config::{Config, File, FileFormat};
 use mysql::prelude::*;
 use mysql::*;
