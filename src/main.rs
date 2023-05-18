@@ -13,6 +13,7 @@ extern crate pest_derive;
 
 mod dictionary;
 mod entry_iterator;
+mod file_manager;
 mod lexico_iterator;
 mod sql;
 
