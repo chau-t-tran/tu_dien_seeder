@@ -14,11 +14,13 @@ extern crate pest_derive;
 mod dictionary;
 mod entry_iterator;
 mod file_manager;
+mod hydrator;
 mod lexico_iterator;
 mod sql;
 
 use crate::dictionary::*;
 use crate::entry_iterator::*;
+use crate::hydrator::*;
 use crate::sql::*;
 
 fn parse(filepath: &str) -> Result<(), Box<dyn Error>> {
@@ -66,7 +68,7 @@ fn main() -> Result<(), Box<dyn Error>> {
             parse(filepath)
         }
         "hydrate" => {
-            println!("Hydrating...");
+            run();
             Ok(())
         }
         _ => unreachable!(),
