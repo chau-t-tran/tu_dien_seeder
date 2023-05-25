@@ -14,11 +14,22 @@ impl<'a> Iterator for LexicoIterator<'a> {
     type Item = String;
     fn next(&mut self) -> Option<Self::Item> {
         match &self.current_word {
-            Some(w) => {
-                let word = query_next_lexico(self.conn, w.to_string()).ok()?;
-                self.current_word = Some(word);
-                Some(self.current_word.as_ref().unwrap().clone())
-            }
+            Some(w) => match query_next_lexico(self.conn, w.to_string()) {
+                Ok(new_word) => {
+                    self.current_word = Some(new_word);
+                    Some(self.current_word.as_ref().unwrap().clone())
+                }
+                Err(error) => match error {
+                    LexicoError::UnknownError() => {
+                        eprint!("Some unknown query error occurred!");
+                        None
+                    }
+                    LexicoError::SqlError(error) => {
+                        eprint!("{}", error);
+                        None
+                    }
+                },
+            },
             _ => None,
         }
     }
@@ -36,7 +47,7 @@ impl LexicoIterator<'_> {
 #[derive(Debug)]
 enum LexicoError {
     SqlError(mysql::Error),
-    QueryError(),
+    UnknownError(),
 }
 
 impl From<mysql::Error> for LexicoError {
@@ -51,20 +62,20 @@ fn query_next_lexico(
 ) -> std::result::Result<String, LexicoError> {
     let query_result: Row = conn
         .exec_first(GET_FIRST, (word,))?
-        .ok_or(LexicoError::QueryError())?;
-    let row_value = query_result.as_ref(0).ok_or(LexicoError::QueryError())?;
+        .ok_or(LexicoError::UnknownError())?;
+    let row_value = query_result.as_ref(0).ok_or(LexicoError::UnknownError())?;
     match row_value {
         Value::Bytes(value) => Ok(String::from_utf8_lossy(value.as_slice()).into_owned()),
-        _ => Err(LexicoError::QueryError()),
+        _ => Err(LexicoError::UnknownError()),
     }
 }
 
 const GET_FIRST: &str = r"
-SELECT DISTINCT word, MIN(id) as id
-FROM entries
-WHERE word > (?)
-GROUP BY word
-ORDER BY word ASC
+SELECT DISTINCT text, MIN(id) as id
+FROM text_audio 
+WHERE text > (?)
+GROUP BY text
+ORDER BY text ASC
 LIMIT 1;";
 
 #[test]
