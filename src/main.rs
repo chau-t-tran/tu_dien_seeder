@@ -13,15 +13,16 @@ extern crate pest_derive;
 
 mod dictionary;
 mod entry_iterator;
-mod file_manager;
 mod hydrator;
-mod lexico_iterator;
 mod sql;
+mod unhydrated_iterator;
+mod word_map;
 
 use crate::dictionary::*;
 use crate::entry_iterator::*;
 use crate::hydrator::*;
 use crate::sql::*;
+use crate::word_map::*;
 
 fn parse(filepath: &str) -> Result<(), Box<dyn Error>> {
     let file = File::open(filepath)?;
@@ -48,7 +49,8 @@ fn parse(filepath: &str) -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
-fn main() -> Result<(), Box<dyn Error>> {
+#[tokio::main]
+async fn main() -> Result<(), Box<dyn Error>> {
     let matches = Command::new("stardict")
         .arg(
             Arg::new("command")
@@ -57,7 +59,7 @@ fn main() -> Result<(), Box<dyn Error>> {
         )
         .arg(
             Arg::new("filepath")
-                .required_if_eq("command", "parse")
+                .required_if_eq_any([("command", "parse"), ("command", "hydrate")])
                 .long("filepath"),
         )
         .get_matches();
@@ -68,7 +70,11 @@ fn main() -> Result<(), Box<dyn Error>> {
             parse(filepath)
         }
         "hydrate" => {
-            run();
+            let filepath = matches.get_one::<String>("filepath").unwrap();
+            let word_map = WordMap::new(filepath.to_string());
+            let run_iterate = iterate_unhydrated();
+            let run_server = run();
+            futures::future::join(run_server, run_iterate).await;
             Ok(())
         }
         _ => unreachable!(),

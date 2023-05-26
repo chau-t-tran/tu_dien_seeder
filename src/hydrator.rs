@@ -8,7 +8,11 @@ use serde::{Deserialize, Serialize};
 use std::net::SocketAddr;
 use tracing_subscriber::{layer::SubscriberExt, util::SubscriberInitExt};
 
-#[tokio::main]
+use std::thread::sleep;
+use std::time::Duration;
+
+use crate::{init_db, unhydrated_iterator::UnhydratedIterator};
+
 pub async fn run() {
     tracing_subscriber::fmt::init();
 
@@ -16,6 +20,7 @@ pub async fn run() {
         .route("/", get(root))
         .route("/receive", post(receive));
 
+    println!("Running on 0.0.0.0:3000");
     axum::Server::bind(&"0.0.0.0:3000".parse().unwrap())
         .serve(app.into_make_service())
         .await
@@ -34,4 +39,13 @@ async fn receive(Json(payload): Json<FPTResponse>) -> (StatusCode) {
 struct FPTResponse {
     message: String,
     success: String,
+}
+
+pub async fn iterate_unhydrated() {
+    let mut conn = init_db().unwrap();
+    let untranslated = UnhydratedIterator::new(&mut conn);
+    println!("Initialized");
+    for text in untranslated {
+        println!("{}", text);
+    }
 }
