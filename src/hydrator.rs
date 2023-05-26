@@ -8,8 +8,8 @@ use serde::{Deserialize, Serialize};
 use std::net::SocketAddr;
 use tracing_subscriber::{layer::SubscriberExt, util::SubscriberInitExt};
 
-use std::thread::sleep;
 use std::time::Duration;
+use tokio::time::sleep;
 
 use crate::{init_db, unhydrated_iterator::UnhydratedIterator};
 
@@ -44,8 +44,11 @@ struct FPTResponse {
 pub async fn iterate_unhydrated() {
     let mut conn = init_db().unwrap();
     let untranslated = UnhydratedIterator::new(&mut conn);
-    println!("Initialized");
+    let duration = Duration::new(1, 500);
+
+    println!("Iterating through words...");
     for text in untranslated {
         println!("{}", text);
+        sleep(duration).await;
     }
 }
