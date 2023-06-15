@@ -1,15 +1,12 @@
 #![allow(unused)]
 use clap::{Arg, Args, Command};
-use core::time::Duration;
 use std::collections::HashMap;
-use std::error::Error;
 use std::fs::File;
 use std::io::{self, prelude::*, BufReader};
 use std::path::PathBuf;
+
+use std::error::Error;
 use std::result::Result;
-use std::sync::Arc;
-use tokio::sync::Mutex;
-use tokio::time::sleep;
 
 extern crate pest;
 #[macro_use]
@@ -26,7 +23,6 @@ use crate::dictionary::*;
 use crate::entry_iterator::*;
 use crate::hydrator::*;
 use crate::sql::*;
-use crate::unhydrated_iterator::*;
 
 fn parse(filepath: &str) -> Result<(), Box<dyn Error>> {
     let file = File::open(filepath)?;
@@ -75,8 +71,8 @@ async fn main() -> Result<(), Box<dyn Error>> {
         }
         "hydrate" => {
             let word_map = Arc::new(Mutex::new(HashMap::new()));
-            let run_iterate = iterate_unhydrated(word_map.clone());
-            let run_server = run(word_map.clone());
+            let run_iterate = iterate_unhydrated();
+            let run_server = run();
             futures::future::join(run_server, run_iterate).await;
             Ok(())
         }
@@ -84,16 +80,4 @@ async fn main() -> Result<(), Box<dyn Error>> {
     };
 
     value
-}
-
-pub async fn iterate_unhydrated(word_map: Arc<Mutex<HashMap<String, String>>>) {
-    let mut conn = init_db().unwrap();
-    let untranslated = UnhydratedIterator::new(&mut conn);
-    let duration = Duration::new(1, 500);
-
-    println!("Iterating through words...");
-    for text in untranslated {
-        println!("{}", text);
-        sleep(duration).await;
-    }
 }
